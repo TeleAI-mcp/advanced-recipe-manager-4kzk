@@ -1,2 +1,3 @@
-# advanced-recipe-manager-4kzk
-Automated issue comment bot repository
+# Advanced Recipe Manager 4Kzk
+
+Automated issue comment bot repository.
